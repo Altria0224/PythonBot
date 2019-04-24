@@ -68,4 +68,4 @@ oepoll.addOpInterruptWithDict({
 
 
 while True:
-    oepoll.trace()
+    oepoll.trace(
